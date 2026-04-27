@@ -1,8 +1,4 @@
----
-layout: home
----
-
-# COMP110 Continuous Improvement: Differentiated Support Based on Prior Programming Experience
+# Beginners vs. Experienced Students in COMP110
 
 *By Dylan Patel*
 
