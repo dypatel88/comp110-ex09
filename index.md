@@ -1,5 +1,9 @@
-# Beginners vs. Experienced Students in COMP110
+---
+layout: page
+title: " "
+---
 
+# Beginners vs. Experienced Students in COMP110
 *By Dylan Patel*
 
 ## Summary
